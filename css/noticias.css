@@ -1,6 +1,6 @@
 /* CSS da página de notícias */
 
-div#ontainer-principal{
+div#container-principal{
     display: grid;
     grid-template-columns: 50% 50%;
 }
